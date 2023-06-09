@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "finger")(type "KiCad")(uri "${KIPRJMOD}/lib/finger.pretty")(options "")(descr ""))
+  (lib (name "apic")(type "KiCad")(uri "${KIPRJMOD}/lib/apic.pretty")(options "")(descr ""))
+  (lib (name "qfp64rect")(type "KiCad")(uri "${KIPRJMOD}/lib/qfp64rect.pretty")(options "")(descr ""))
+)
